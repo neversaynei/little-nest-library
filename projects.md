@@ -1,6 +1,6 @@
 ---
-layout: default
-title: shelves
+layout: projects
+title: projects
 ---
 
 # the library shelves
