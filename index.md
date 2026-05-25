@@ -11,4 +11,15 @@ this is a small library for previously untranslated novels, and a calm space for
 
 ---
 
-more shelves soon!!
+## ✦ shelves
+
+- ongoing translations (coming soon)
+- completed works (coming soon)
+- archived stories (coming soon)
+
+---
+
+## ✦ note
+
+all translations are fanmade and not for profit ♡  
+please support the original authors if you can!
