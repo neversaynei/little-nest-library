@@ -1,6 +1,7 @@
 ---
-layout: projects
+layout: default
 title: projects
+permalink: /projects/
 ---
 
 # the library shelves
