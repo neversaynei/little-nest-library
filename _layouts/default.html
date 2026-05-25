@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1>
+
+    <nav>
+      <a href="/">home</a>
+      <a href="/projects">projects</a>
+      <a href="/about">about</a>
+    </nav>
+  </div>
+</header>
+
+<main class="page-content">
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+  all translations are fanmade and not for profit ♡<br>
+  please support the original author whenever possible ꕤ
+</footer>
+
+</body>
+</html>
