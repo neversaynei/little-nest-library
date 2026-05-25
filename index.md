@@ -7,8 +7,8 @@ title: Home
 
 welcome home, traveler ꕤ
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+this is a small library for previously untranslated novels, and a calm space for you to escape into the worlds hiding just a dream away ♡
 
 ---
 
-Lorem ipsum
+more shelves soon!!
