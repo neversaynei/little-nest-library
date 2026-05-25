@@ -1,4 +1,6 @@
 ---
+layout: project
+---
 title: "How to Refuse the Route"
 related names: 루트를 거부하는 방법, How to deny the route, To deny the route
 author: 허니트랩 (Honey Trap)
